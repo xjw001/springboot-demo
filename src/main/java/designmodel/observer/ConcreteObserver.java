@@ -1,4 +1,4 @@
-package observer;
+package designmodel.observer;
 
 public class ConcreteObserver implements Observer{
     @Override

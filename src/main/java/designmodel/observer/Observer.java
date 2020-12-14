@@ -1,4 +1,4 @@
-package observer;
+package designmodel.observer;
 
 public interface Observer {
     //更新

@@ -9,7 +9,7 @@ import java.util.Objects;
 
 public class Colltest {
     public static void main(String[] args) {
-        String s = "abcd";
+        String s = "0";
         System.out.println(s.hashCode());
         ByteBuffer b = ByteBuffer.allocate(4);
     }

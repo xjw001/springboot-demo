@@ -6,7 +6,7 @@ public class CompteTest {
     public static void main(String[] args) throws InterruptedException {
         long result = 0L;
         long startTime = System.currentTimeMillis();
-        for (long i = 1L; i < 10000000000L; i++) {
+        for (long i = 1L; i < 1000000000L; i++) {
             result +=i;
         }
         long endTime = System.currentTimeMillis();

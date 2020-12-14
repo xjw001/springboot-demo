@@ -1,4 +1,4 @@
-package observer;
+package designmodel.observer;
 
 import java.util.Vector;
 
