@@ -1,7 +1,5 @@
 package sort;
 
-import sun.security.util.Length;
-
 import java.util.Arrays;
 
 public class heapSort2 {

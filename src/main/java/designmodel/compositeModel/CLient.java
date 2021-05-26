@@ -1,7 +1,5 @@
 package designmodel.compositeModel;
 
-import com.sun.xml.internal.ws.util.NoCloseOutputStream;
-
 /**
  * 组合模式
  */
